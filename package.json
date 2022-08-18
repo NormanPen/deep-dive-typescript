@@ -1,0 +1,7 @@
+{
+    "name": "deep-dive-typescript",
+    "version": "0.0.1",
+    "devDependencies": {
+        "typescript": "^4.7.4"
+    }
+}
